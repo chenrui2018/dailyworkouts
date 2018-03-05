@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_tabs">
+        <item>每日挑战</item>
+        <item>动作说明</item>
+        <item>统计</item>
+    </string-array>
+
+    <string-array name="workuts_project">
+        <item>胸部</item>
+        <item>腹部</item>
+        <item>肩部及背部</item>
+        <item>腿部</item>
+    </string-array>
+
+    <string-array name="workuts_project_xiongbu">
+        <item>胸部 初级</item>
+        <item>胸部 中级</item>
+        <item>胸部 高级</item>
+    </string-array>
+
+    <string-array name="workuts_project_fubu">
+        <item>腹部 初级</item>
+        <item>腹部 中级</item>
+        <item>腹部 高级</item>
+    </string-array>
+
+    <string-array name="workuts_project_jianbu">
+        <item>肩部及背部 初级</item>
+        <item>肩部及背部 中级</item>
+        <item>肩部及背部 高级</item>
+    </string-array>
+
+    <string-array name="workuts_project_tuibu">
+        <item>腿部 初级</item>
+        <item>腿部 中级</item>
+        <item>腿部 高级</item>
+    </string-array>
+
+</resources>

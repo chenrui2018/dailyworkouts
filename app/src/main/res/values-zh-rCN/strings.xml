@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">每日锻炼挑战</string>
+    <string name="navigation_main">训练任务</string>
+    <string name="navigation_statistics">统计</string>
+    <string name="navigation_language">语言设置</string>
+    <string name="navigation_setting">设置</string>
+    <string name="tx_report">报告</string>
+    <string name="tx_sport">运动</string>
+    <string name="tx_minute">分钟</string>
+    <string name="project_quanshen">全身</string>
+    <string name="project_xiongbu">胸部</string>
+    <string name="project_fubu">腹部</string>
+    <string name="project_jianbu">肩部</string>
+    <string name="project_tuibu">腿部</string>
+
+    <string name="lab_quanshen">全身运动</string>
+    <string name="lab_7x4"> 7x4 挑战</string>
+
+</resources>

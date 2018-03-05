@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="defautl_content_padding">15dp</dimen>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_tabs">
+        <item>锻炼</item>
+        <item>动作说明</item>
+        <item>统计</item>
+    </string-array>
+
+    <string-array name="item_workuts">
+        <item>全身运动</item>
+        <item>腹部运动</item>
+        <item>臀部运动</item>
+        <item>手臂运动</item>
+        <item>腿部运动</item>
+    </string-array>
+
+</resources>
