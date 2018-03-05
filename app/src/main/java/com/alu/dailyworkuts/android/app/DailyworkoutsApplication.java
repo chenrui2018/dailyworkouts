@@ -1,11 +1,11 @@
-package com.alu.dailyworkuts.android.app;
+﻿package com.alu.dailyworkuts.android.app;
 
 import android.app.Application;
 
 import com.alu.dailyworkuts.android.data.DataConfig;
 
 /**
- * 作者：fuchangle on 2018/1/12 11:29
+ * 作者：chenrui on 2018/1/12 11:29
  */
 
 public class DailyworkoutsApplication extends Application{

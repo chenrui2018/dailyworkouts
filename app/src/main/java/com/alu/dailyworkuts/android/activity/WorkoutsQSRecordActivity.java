@@ -1,4 +1,4 @@
-package com.alu.dailyworkuts.android.activity;
+﻿package com.alu.dailyworkuts.android.activity;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -8,7 +8,7 @@ import com.alu.dailyworkuts.android.base.BaseActivity;
 
 /**
  * 全身运动 记录
- * 作者：fuchangle on 2018/1/18 14:51
+ * 作者：chenrui on 2018/1/18 14:51
  */
 
 public class WorkoutsQSRecordActivity extends BaseActivity{

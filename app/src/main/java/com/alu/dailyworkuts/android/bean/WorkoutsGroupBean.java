@@ -1,11 +1,11 @@
-package com.alu.dailyworkuts.android.bean;
+﻿package com.alu.dailyworkuts.android.bean;
 
 import com.alu.dailyworkuts.android.base.BaseBean;
 
 import java.util.List;
 
 /**
- * 作者：fuchangle on 2018/1/12 11:24
+ * 作者：chenrui on 2018/1/12 11:24
  */
 
 public class WorkoutsGroupBean extends BaseBean{

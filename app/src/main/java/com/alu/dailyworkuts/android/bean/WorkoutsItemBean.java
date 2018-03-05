@@ -1,9 +1,9 @@
-package com.alu.dailyworkuts.android.bean;
+﻿package com.alu.dailyworkuts.android.bean;
 
 import com.alu.dailyworkuts.android.base.BaseBean;
 
 /**
- * 作者：fuchangle on 2018/1/18 11:05
+ * 作者：chenrui on 2018/1/18 11:05
  */
 
 public class WorkoutsItemBean extends BaseBean{

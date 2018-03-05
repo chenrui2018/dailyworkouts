@@ -1,4 +1,4 @@
-package com.alu.dailyworkuts.android.adapter;
+﻿package com.alu.dailyworkuts.android.adapter;
 
 import android.content.Context;
 import android.support.v4.app.Fragment;
@@ -8,7 +8,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 import java.util.List;
 
 /**
- * 作者：fuchangle on 2018/1/4 15:07
+ * 作者：chenrui on 2018/1/4 15:07
  */
 
 public class MyFragmentPagerAdapter extends FragmentPagerAdapter{

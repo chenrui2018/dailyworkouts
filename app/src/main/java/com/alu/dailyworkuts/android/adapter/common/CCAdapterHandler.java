@@ -10,7 +10,7 @@ import java.util.LinkedList;
  * A handler to control content. <br/>
  * Every modification of content will call {@link BaseAdapter#notifyDataSetChanged()} automatically.
  *
- * Created by yanhaifeng on 16-7-27.
+ * Created by chenrui on 16-7-27.
  */
 
 public class CCAdapterHandler<T> extends ArrayList<T> {
